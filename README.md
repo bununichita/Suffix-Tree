@@ -8,7 +8,7 @@
 
 ## Overview
 
-This Racket project provides a set of functions to manipulate suffix trees and perform pattern-matching operations. The code is designed to find the longest common prefix between words, support suffix tree searches, and enable pattern matching using recursive methods..
+This Racket project provides a set of functions to manipulate suffix trees and perform pattern-matching operations. The code is designed to find the longest common prefix between words, support suffix tree searches, and enable pattern matching using recursive methods.
 
 ---
 
